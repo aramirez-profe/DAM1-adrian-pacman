@@ -30,6 +30,18 @@
             <version>${javafx.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-graphics</artifactId>
+            <version>${javafx.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jbox2d</groupId>
+            <artifactId>jbox2d-library</artifactId>
+            <version>2.2.1.1</version>
+        </dependency>
+
         <!-- JUnit 5: Librería para pruebas unitarias (la usaremos en la UD3) -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
